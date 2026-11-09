@@ -62,8 +62,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mos234mv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mos234mv&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=Mos234mv&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/Mos234mv" alt="Contribution chart" />
 </p>
 
 ---
